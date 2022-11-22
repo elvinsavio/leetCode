@@ -16,9 +16,9 @@ function pivotIndex(nums: number[]): number {
   return -1;
 }
 
-function main(): void {
-  let result: number = pivotIndex([2, -1, 1]);
-  console.log(result);
-}
+// function main(): void {
+//   let result: number = pivotIndex([2, -1, 1]);
+//   console.log(result);
+// }
 
-main();
+// main();
